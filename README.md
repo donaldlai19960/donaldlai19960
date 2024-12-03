@@ -12,8 +12,8 @@ I am an ambitious software engineer with over 6 years of experience in software 
 
 ### Structured Light 3D Reconstruction for Endoscope
 
-- **Role**: Researcher and Developer
-- **Contributions**: Conducted research on structured light 3D reconstruction for endoscopic-based procedures. Developed medical electronics for endoscopic surgical robot systems.
+- **Role**: Software Developer
+- **Contributions**: Conducted research on structured light 3D reconstruction for polyp size measurement.
 - **Technologies**: C++, QT, OpenCV, PCL, 3D structured light, 3D point cloud registration, smoothing
 
 ### Embedded Software for Motor Inspection
@@ -24,25 +24,25 @@ I am an ambitious software engineer with over 6 years of experience in software 
 
 ### Authentication System for Medical Robot
 
-- **Role**: Security Developer
+- **Role**: Embedded Software Developer
 - **Contributions**: Developed authentication electronics and firmware for anti-counterfeiting in medical robots.
 - **Technologies**: Embedded C, STM32 MCU, PCB design, STM32CubeMX
 
 ### Joystick for Endoscopic Robot
 
-- **Role**: Hardware and Firmware Developer
+- **Role**: Embedded Hardware and Software Developer
 - **Contributions**: Developed the firmware and hardware design of a joystick controller board for an endoscopic robot. Designed API for QT framework integration.
 - **Technologies**: Embedded C, ADC, QT, STM32 MCU, PCB design, UART, STM32CubeMX
 
 ### Embedded Software for Quadruped Robot
 
-- **Role**: Firmware Developer
+- **Role**: Embedded software Developer
 - **Contributions**: Developed the firmware for a quadruped robot, incorporating RTOS, servo control, and Bluetooth control.
 - **Technologies**: Embedded C, RTOS, MbedOS, IMU, I2C, STM32 MCU, UART
 
 ### Odometry System for Robot Chassis
 
-- **Role**: System Developer
+- **Role**: Embedded software Developer
 - **Contributions**: Developed an odometry system for the robot chassis to enhance navigation and localization. Incorporated sensor data from rotary encoders to determine the position of the robot.
 - **Technologies**: Embedded C++, Mbed OS, Quadrature Encoder Mode, STM32 MCU
 
