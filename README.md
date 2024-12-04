@@ -36,13 +36,13 @@ I am an ambitious software engineer with over 6 years of experience in software 
 
 ### Embedded Software for Quadruped Robot
 
-- **Role**: Embedded software Developer
+- **Role**: Embedded Software Developer
 - **Contributions**: Developed the firmware for a quadruped robot, incorporating RTOS, servo control, and Bluetooth control.
 - **Technologies**: Embedded C, RTOS, MbedOS, IMU, I2C, STM32 MCU, UART
 
 ### Odometry System for Robot Chassis
 
-- **Role**: Embedded software Developer
+- **Role**: Embedded Software Developer
 - **Contributions**: Developed an odometry system for the robot chassis to enhance navigation and localization. Incorporated sensor data from rotary encoders to determine the position of the robot.
 - **Technologies**: Embedded C++, Mbed OS, Quadrature Encoder Mode, STM32 MCU
 
