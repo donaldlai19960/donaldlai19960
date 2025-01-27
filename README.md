@@ -6,7 +6,7 @@ Please note that due to privacy and confidentiality reasons, many of my projects
 
 ## About Me
 
-I am an ambitious software engineer with over 6 years of experience in software development and research, including 3+ years in the industry. My expertise includes C++ programming, embedded system development, machine control, and event-driven state machine architectures. I have a strong research background in computer vision and 3D reconstruction for medical applications.
+I am an ambitious software engineer with over 5 years of experience in software development and research, including 3+ years in the industry. My expertise includes C++ programming, embedded system development, machine control, and event-driven state machine architectures. I have a strong research background in computer vision and 3D reconstruction for medical applications.
 
 ## Projects
 
