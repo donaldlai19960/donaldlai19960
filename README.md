@@ -68,5 +68,5 @@ I am an ambitious software engineer with over 5 years of experience in software 
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
 
 - **Email**: [donaldlai19960@gmail.com](mailto:donaldlai19960@gmail.com)
-- **LinkedIn**: [linkedin.com/in/donald-ip-b39271187](https://www.linkedin.com/in/donald-ip-b39271187)
+- **LinkedIn**: [linkedin.com/in/donald-ngo-fung-ip-b39271187](https://www.linkedin.com/in/donald-ngo-fung-ip-b39271187)
 
